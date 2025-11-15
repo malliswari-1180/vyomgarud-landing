@@ -108,5 +108,22 @@ This project is deployed using Vercel.
 
 
 
+## Screenshots 
 
+The following screenshots showcase different sections of the VyomGarud Landing Page.
+All screenshots are stored in the "Vyom guard screenshots" folder inside the project.
 
+### Hero Section
+![Hero Section](src/Vyom guard screenshots/Hero.png)
+
+### About Section
+![About Section](src/Vyom guard screenshots/About .png)
+
+### Capabilities Section
+![Capabilities Section](src/Vyom guard screenshots/Capabilities.png)
+
+### Highlights Section
+![Highlights Section](src/Vyom guard screenshots/Highlights.png)
+
+### Contact Section
+![Contact Section](src/Vyom guard screenshots/contact.png)
