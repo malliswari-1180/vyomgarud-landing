@@ -1,3 +1,4 @@
+
 # VyomGarud Landing Page
 
 A modern and responsive landing page created for the VyomGarud Web Developer Internship assessment.
@@ -104,6 +105,7 @@ Ensure that the following directives exist in index.css:
 ## Deployment
 
 This project is deployed using Vercel.
+
 
 
 
